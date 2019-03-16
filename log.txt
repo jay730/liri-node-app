@@ -14,3 +14,274 @@ Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
 Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 
 my-tweets 
+
+spotify-this-song firework
+
+Track Name: Firework
+Album Name: Katy Perry - Teenage Dream: The Complete Confection
+Artist Name: Katy Perry
+Preview URL: null
+
+Track Name: Firework
+Album Name: Teenage Dream
+Artist Name: Katy Perry
+Preview URL: null
+
+Track Name: Firework
+Album Name: Teenage Dream
+Artist Name: Katy Perry
+Preview URL: null
+
+Track Name: Firework - Acoustic
+Album Name: Firework
+Artist Name: The Mayries
+Preview URL: https://p.scdn.co/mp3-preview/98d96de7153667fd0f607532821b12eb6d653742?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: Firework
+Album Name: Red
+Artist Name: Dallas String Quartet
+Preview URL: https://p.scdn.co/mp3-preview/52804e9cbf55fe09e97905647cd04061afacad4b?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: Firework
+Album Name: Midnight Waves
+Artist Name: Canyon City
+Preview URL: https://p.scdn.co/mp3-preview/97f2e8b3a0c5cf3a5cf15f05392069dcff7496cc?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: Firework
+Album Name: Starting Over
+Artist Name: Hollywood Principle
+Preview URL: https://p.scdn.co/mp3-preview/790a3400246ab3e24cb185050cc9049189e2d1cf?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: Firework
+Album Name: 7 for 7
+Artist Name: GOT7
+Preview URL: https://p.scdn.co/mp3-preview/0ebdc0f9ff62e142a6573a00669f7fda906d0325?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: Firework - Melad Remix
+Album Name: Starting Over
+Artist Name: Hollywood Principle
+Preview URL: https://p.scdn.co/mp3-preview/876731c32d71f74795c8600a33a498a8d6662577?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: Firework
+Album Name: Teenage Dream
+Artist Name: Katy Perry
+Preview URL: null
+
+my-tweets 
+
+From: DKMitt at Wed Feb 27 03:53:36 +0000 2019
+RT @nodejs: Check out "12 Concepts That Will Level Up Your JavaScript Skills" via @nas5w https://t.co/n2w5vQSLSe
+
+From: DKMitt at Wed Feb 27 03:36:38 +0000 2019
+Look Ma, No Media Queries! Responsive Layouts Using CSS Grid
+#CSS #css3 #responsive #mobile
+#mobileapps #MobileApp… https://t.co/yVtD2xHql2
+
+From: DKMitt at Wed Feb 27 03:20:23 +0000 2019
+ANOTHER way to call restFul API in Redux
+#ReactJS #react #learntocode #CodeNewbie #WomenWhoCode #tutorial… https://t.co/TNIhzuirqU
+
+From: DKMitt at Tue Feb 26 19:34:53 +0000 2019
+RT @freeCodeCamp: How to get dark mode working with CSS by @frank_laemmer https://t.co/Z2TgqUpmuz
+
+From: DKMitt at Tue Feb 26 19:34:03 +0000 2019
+RT @freeCodeCamp: Check out this Tensorflow.js Full Course on Deep Learning in JavaScript https://t.co/383MQPhNfV
+
+From: DKMitt at Tue Feb 26 18:05:02 +0000 2019
+@ksylor Very Cool! Nice Job!
+
+From: DKMitt at Tue Feb 26 18:04:01 +0000 2019
+RT @ksylor: I’m totally being that person and retweeting myself for the Monday AM crowd because I am just so frigging excited 🎉 https://t.c…
+
+From: DKMitt at Tue Feb 26 18:03:07 +0000 2019
+RT @jlengstorf: Holy shit, this is nice. I wish I would have had a visualization like this when I was first learning git. Great work, @ksyl…
+
+From: DKMitt at Tue Feb 26 17:52:41 +0000 2019
+11 Must-Watch Conference Talks That Will Inspire You For 2019
+#Coding #100DaysOfCode #WebDev #Coder #Tech… https://t.co/5DKP3mcVGk
+
+From: DKMitt at Tue Feb 26 17:28:30 +0000 2019
+How to Use Higher-Order Components in React 
+#javascript #react #reactjs #learntocode #CodeNewbie #tutorial… https://t.co/1T4Y5v8ef5
+
+From: DKMitt at Tue Feb 26 17:00:13 +0000 2019
+For Loops in React Render() - No You Didn’t! by Quynh Nhu To Tuan
+#ReactJS #React #javascript #CodeNewbie… https://t.co/GO9qe1v0LJ
+
+From: DKMitt at Tue Feb 26 16:43:22 +0000 2019
+Integrating WordPress REST API with React Native 
+#ReactNative #API #wordpress #WordPressAPI #RESTAPI
+#learntocode… https://t.co/rYiuB5mwyz
+
+From: DKMitt at Sat Feb 23 15:50:12 +0000 2019
+Visual Studio Code Settings and Extensions for Faster JavaScript Development
+#javascript #VSCode #development… https://t.co/TzN0CiRa3y
+
+From: DKMitt at Sat Feb 23 06:08:35 +0000 2019
+RT @VueJSTutorials: Learn to build a Real-time Location Tracking app with NativeScript-Vue
+
+https://t.co/77ePNwzlrf
+
+#vue #vuejs #laravel #…
+
+From: DKMitt at Wed Feb 20 20:30:14 +0000 2019
+Building a modern app using Nest.js, MongoDB and Vue.js 
+#vuejs #javascript #MongoDB #NestJS #webapp #tutorials… https://t.co/BozutFcQjh
+
+From: DKMitt at Tue Feb 19 20:25:40 +0000 2019
+How to set up user authentication using React, Redux &amp; Redux Saga
+#JavaScript #reactjs #react #Redux  #ReduxSaga… https://t.co/fDqsaBGAGK
+
+From: DKMitt at Sat Feb 16 15:47:31 +0000 2019
+RT @freeCodeCamp: If you're struggling to get started building things, read this: How to go from coding tutorials to building your own proj…
+
+From: DKMitt at Sat Feb 16 15:46:33 +0000 2019
+RT @VueJSTutorials: Building a button component using Vue.js
+
+https://t.co/Ps1ydL7ntS
+
+#vue #vuejs #laravel #php  #dev #html5 #js #coder #c…
+
+From: DKMitt at Fri Feb 15 22:01:35 +0000 2019
+MapBox, tools to let dev's build a new world powered by location data. Real time updates. Total customization. Dev'… https://t.co/VltvJv17Ry
+
+From: DKMitt at Thu Feb 14 01:16:41 +0000 2019
+22 Best Visual Studio Code Extensions for Web Development
+#vscode #Webdevelopment
+#CodeNewbie #learntocode #webdev… https://t.co/KHyrXbtzuZ
+
+my-tweets 
+
+my-tweets 
+
+my-tweets 
+
+do-what-it-says 
+
+do-what-it-says 
+
+do-what-it-says 
+
+movie-this inception
+
+
+Title: Inception
+Year: 2010
+Rating from Internet Movie Database: 8.8/10
+Rating from Rotten Tomatoes: 86%
+Country of Origin: USA, UK
+Language: English, Japanese, French
+Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+
+do-what-it-says 
+
+do-what-it-says 
+
+do-what-it-says 
+
+do-what-it-says 
+
+do-what-it-says 
+
+Track Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Artist Name: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: I Want It That Way
+Album Name: Millennium
+Artist Name: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: I Want It That Way
+Album Name: Covers Part IV
+Artist Name: Anthem Lights
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: I Want It That Way
+Album Name: Beautiful Dreams
+Artist Name: Tyler and Mark
+Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album Name: Poodle Hat
+Artist Name: "Weird Al" Yankovic
+Preview URL: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: I Want It That Way
+Album Name: Punk Goes Pop
+Artist Name: Dynamite Boy
+Preview URL: null
+
+Track Name: I Want It That Way
+Album Name: 90 Sweet 90s Hits!
+Artist Name: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: I Want It That Way
+Album Name: NKOTBSB
+Artist Name: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist Name: Glee Cast
+Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: I Want It That Way
+Album Name: I Want It That Way
+Artist Name: Manuel Costa
+Preview URL: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+do-what-it-says 
+
+Track Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Artist Name: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: I Want It That Way
+Album Name: Millennium
+Artist Name: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: I Want It That Way
+Album Name: Covers Part IV
+Artist Name: Anthem Lights
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: I Want It That Way
+Album Name: Beautiful Dreams
+Artist Name: Tyler and Mark
+Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album Name: Poodle Hat
+Artist Name: "Weird Al" Yankovic
+Preview URL: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: I Want It That Way
+Album Name: Punk Goes Pop
+Artist Name: Dynamite Boy
+Preview URL: null
+
+Track Name: I Want It That Way
+Album Name: 90 Sweet 90s Hits!
+Artist Name: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: I Want It That Way
+Album Name: NKOTBSB
+Artist Name: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist Name: Glee Cast
+Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=24bd42e1638d4579aec13f2bd6b94d91
+
+Track Name: I Want It That Way
+Album Name: I Want It That Way
+Artist Name: Manuel Costa
+Preview URL: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=24bd42e1638d4579aec13f2bd6b94d91
